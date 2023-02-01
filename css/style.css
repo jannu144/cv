@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.top
+{
+    position: relative;
+    background-color: #070b34;
+    color:rgb(255, 255, 255);
+    text-align:center;
+    height: 650px;
+    padding-top: 300px;
+    margin: 0;
+    font-family: 'Volpedo Light', sans-serif;
+}
+.middle
+{
+    background-color:#ced2f9;
+    height:1800px;
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+    color:rgb(0, 0, 0);
+}
+.bottom
+{
+    background-color:#6b4984;
+    margin: 0;
+    text-align: center;
+}
+.philly
+{
+    position:absolute;
+    bottom: 0%;
+    left: 0%;
+}
+.stars
+{
+    position:absolute;
+    left: 4%;
+    top:3%;
+}
+.stars2
+{
+    position:absolute;
+    right: 4%;
+    top:3%;
+}
+.stars3
+{
+    position:absolute;
+    top:-5%;
+    
+}
+.stars4
+{
+    position: absolute;
+    top:-4%;
+    left:25%;
+}
+.headshot
+{
+    margin: 85px;
+    border-radius: 50%;
+}
+.row1
+{
+    width: 75%;
+    margin:75px auto;
+}
+.row2
+{
+    width: 75%;
+    margin:auto;
+    height:200px;
+}
+.row3{
+    width:75%;
+    margin:auto;
+}
+.column
+{
+    display: inline-block;
+}
+.button
+{
+    background-color:#f0f007;
+    color:black;
+    padding:5px;
+    border-radius: 10%;
+}
+.contact
+{
+    background-color:#B8B9DE;
+    font-family: "Rajdhani", sans-serif;
+    text-shadow: 0 0 5px #ffff, 0 0 10px #ffff, 0 0 15px #f0f007, 0 0 20px #f0f007, 0 0 25px #f0f007, 0 0 30px #f0f007, 0 0 35px #f0f007;
+    height: 700px;
+}
+.center
+{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    border-radius: 5px;
+    width:45%;
+    padding:25px;
+    margin:75px auto;
+}
+.deepam
+{
+    position: absolute;
+    top:450px;
+    left:542px;
+    
+}
+h1
+{
+font-size: xx-large;
+}
+h2
+{
+    font-size:x-large;
+    font-weight: bold;
+}
+h3{
+    font-size: large;
+}
+hr{
+    border-top:3px dotted #f0f007;
+    border-bottom:3px dotted rgb(113, 205, 9);
+    border-right: none;
+    border-left: none;
+    overflow: visible;
+    text-align: center;
+    height:4px;
+    width:50%;
+}
+ul{
+    list-style:none;
+    font-size:x-large;
+    line-height: 200%;
+}
+dl{
+    font-size:larger;
+    line-height: 170%;
+}
